@@ -15,6 +15,7 @@ import javafx.scene.Scene;
 import javafx.scene.paint.Color;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
+import javafx.scene.control.MenuBar;
 
 /**
  *
@@ -25,6 +26,8 @@ public class Checkerboard_FXMLController implements Initializable {
     
     @FXML
     private AnchorPane pane;
+    @FXML
+    private MenuBar menubar;
     private int numRows = 8;
     private int numCols = 8;
     private double boardWidth = 400;
@@ -44,7 +47,7 @@ public class Checkerboard_FXMLController implements Initializable {
     
     public void getBoardSize(Scene scene) {
         boardWidth = scene.getWidth();
-        boardHeight = scene.getHeight() - 29;   //minus the height of menubar
+        boardHeight = scene.getHeight() - menubar.getHeight();   //minus the height of menubar
     }
     
     public void start(Scene scene) {
