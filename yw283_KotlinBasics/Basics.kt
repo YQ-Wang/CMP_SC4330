@@ -43,7 +43,7 @@ fun main(args: Array<String>)
         println("Sorry you are so poor.") 
     }
     
-    val force = mass*acceleration
+    var force = mass*acceleration
     println("force = $force")
     
     println("$distance is the distance.")
