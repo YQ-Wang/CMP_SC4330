@@ -75,6 +75,7 @@ fun main(args: Array<String>)
     }
     
     var age: Int = 0
+    
     while(age < 6)
     {
         println("age = $age")
