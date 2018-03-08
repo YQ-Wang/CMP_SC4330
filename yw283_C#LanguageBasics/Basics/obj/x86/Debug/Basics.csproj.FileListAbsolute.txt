@@ -1,0 +1,5 @@
+/Users/yq.wang/Projects/Basics/Basics/bin/Debug/Basics.exe
+/Users/yq.wang/Projects/Basics/Basics/bin/Debug/Basics.pdb
+/Users/yq.wang/Projects/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/yq.wang/Projects/Basics/Basics/obj/x86/Debug/Basics.exe
+/Users/yq.wang/Projects/Basics/Basics/obj/x86/Debug/Basics.pdb
