@@ -28,3 +28,8 @@ Using the Java SAX parser (event-based parser), create a Document Object Model (
 ## <br>Challenge: Kotlin Language Basics
 ### *Description:* 
 Write a Kotlin application with a main function that utilizes constants, variables, data types, operators, expressions, statements, blocks, and control flow.
+
+
+## <br>Challenge: C# Language Basics
+### *Description:* 
+Write a C# application with a main function that utilizes constants, variables, data types, operators, expressions, statements, blocks, and control flow.
